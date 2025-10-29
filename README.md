@@ -1,9 +1,7 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
 
-```
-NAME: Sanjeev A
-REG NO: 212224230246
-```
+## NAME: Sanjeev A
+## REG NO: 212224230246
 
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
@@ -75,7 +73,7 @@ int main() {
 
 ## Output:
 
-<img width="760" height="327" alt="image" src="https://github.com/user-attachments/assets/ed6eadcd-32e3-4e4d-a94b-1fcd65fb5683" />
+<img width="810" height="302" alt="image" src="https://github.com/user-attachments/assets/bf51e183-15aa-432a-aa1f-6da8d2236b94" />
 
 
 
