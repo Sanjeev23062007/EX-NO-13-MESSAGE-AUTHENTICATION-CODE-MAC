@@ -31,7 +31,7 @@ To implement MESSAGE AUTHENTICATION CODE(MAC)
 
 ## Program:
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 #define MAC_SIZE 32 
